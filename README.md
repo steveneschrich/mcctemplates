@@ -6,7 +6,7 @@ Moffitt Cancer Center (https://www.moffitt.org/). In particular, the Biostatisti
 ## Installing
 To install this package, use
 ```
-devtools::install("steveneschrich/mcctemplates")
+devtools::install_github("steveneschrich/mcctemplates")
 ```
 Note there may be a few dependencies to install in addition, but that should happen automatically. 
 
