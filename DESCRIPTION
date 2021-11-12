@@ -1,0 +1,16 @@
+Package: mcctemplates
+Title: Moffitt Cancer Center RMarkdown Templates
+Version: 0.0.0.9000
+Authors@R: 
+    person("Steven", "Eschrich", , "Steven.Eschrich@moffitt.org", role = c("aut", "cre"))
+Description: RMarkdown templates are provided for Moffitt Cancer Center-related branding.
+  This package provides templates for rmarkdown work that are branded for the
+  Moffitt Cancer Center. MCC has a shared resource consisting of biostatistics,
+  bioinformatics and informatics expertise. This package provides a skeleton template 
+  for use in R/RStudio.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: dsreportr
+Remotes: steveneschrich/dsreportr
