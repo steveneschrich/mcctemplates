@@ -1,6 +1,6 @@
 Package: mcctemplates
 Title: Moffitt Cancer Center RMarkdown Templates
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: 
     person("Steven", "Eschrich", , "Steven.Eschrich@moffitt.org", role = c("aut", "cre"))
 Description: RMarkdown templates are provided for Moffitt Cancer Center-related branding.
